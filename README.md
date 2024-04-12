@@ -4,4 +4,6 @@
 ##[assignment-3](https://github.com/tejasai123w/aiml4/blob/main/assignment-3.ipynb)
 ##[assignment-4](https://github.com/tejasai123w/aiml4/blob/main/assignment-4.ipynb)
 ##[assignment-5](https://github.com/tejasai123w/aiml4/blob/main/assignment5.ipynb)
+##[assignment-6](https://github.com/tejasai123w/aiml4/blob/main/assignment6.ipynb)
+
 

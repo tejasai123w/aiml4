@@ -7,8 +7,8 @@
 ##[assignment-6](https://github.com/tejasai123w/aiml4/blob/main/assignment6.ipynb)
 ##[assignment-7](https://github.com/tejasai123w/aiml4/blob/main/assignment7.ipynb)
 ##[assignment-8](https://github.com/tejasai123w/aiml4/blob/main/assignment-8.ipynb)
-##[assignment-9](https://github.com/tejasai123w/aiml4/blob/main/assignment-9.ipynb
-)
+##[assignment-9](https://github.com/tejasai123w/aiml4/blob/main/assignment-9.ipynb)
+##[assignment-10](https://github.com/tejasai123w/aiml4/blob/main/assingment10_KMeans.ipynb)
 
 
 
